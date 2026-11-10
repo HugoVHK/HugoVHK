@@ -24,3 +24,5 @@ Algumas coisas que fazem parte de quem sou:
 - 🎮 Jogos com histórias marcantes e universos interessantes.
 - 📚 Personagens com histórias complicadas e filosofias profundas.
 - 🎵 Música, momentos tranquilos e pensamentos demais.
+
+---
