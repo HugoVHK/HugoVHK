@@ -1,8 +1,8 @@
-𝑯𝒖𝒈𝒐 — Vito-Hk
+ 𝑯𝒖𝒈𝒐 — Vito-Hk
 
 <p align="center">
   <i>“Mesmo em uma cidade cheia de histórias, ainda estou escrevendo a minha.”</i>
-</p>
+</p>---
 
 ⌜ Sobre mim ⌟
 
@@ -25,4 +25,4 @@ Algumas coisas que fazem parte de quem sou:
 - 📚 Personagens com histórias complicadas e filosofias profundas.
 - 🎵 Música, momentos tranquilos e pensamentos demais.
 
-
+---
